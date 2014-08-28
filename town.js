@@ -1,1 +1,1 @@
-{"code":"A001","description":"Perak"}{}
+{"code":"A001","description":"Perak"}
